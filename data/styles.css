@@ -9,8 +9,6 @@
 }
 ._形状 {
 }
-._图片 {
-}
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
@@ -55,6 +53,8 @@
 ._文本段落 {
   text-align:left;
 }
+._流程形状 {
+}
 ._连接线 {
   font-family:'Arial Negreta', 'Arial Normal', 'Arial';
   font-weight:700;
@@ -91,4 +91,7 @@
 .icon {
 }
 .flow_shape {
+}
+.primary_button {
+  color:#FFFFFF;
 }
